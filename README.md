@@ -8,3 +8,4 @@
 <br>
 <h4> Lec 4 - Arrays </h4>
 <br>
+<h4> Lec 5 - Functions and Methods

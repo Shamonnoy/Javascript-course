@@ -1,0 +1,27 @@
+#heading{
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+body{
+    background-color:beige;
+}
+
+.topic{
+    background-color: lightgreen;
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: 6px;
+    padding: 7px;
+    border: none;
+}
+
+button:hover{
+    background-color:aqua;
+    transition: all 0.5s ease-in;
+}
+/* button:active{
+    background-color: #006cfa;
+} */

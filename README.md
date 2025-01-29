@@ -11,3 +11,5 @@
 <h4> Lec 5 - Functions and Methods </h4>
 <br>
 <h4> Lec 6 - DOM-Document Object Model </h4>
+<br>
+<h4> Lec 7 - DOM-Document Object Model part-2 </h4>

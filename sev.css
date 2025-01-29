@@ -1,0 +1,7 @@
+#box,#items{
+    height: 150px;
+    width: 100px;
+    background-color: lightcoral;
+    border: 1px solid black;
+    color: white;
+}

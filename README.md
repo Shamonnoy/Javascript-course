@@ -13,3 +13,5 @@
 <h4> Lec 6 - DOM-Document Object Model </h4>
 <br>
 <h4> Lec 7 - DOM-Document Object Model part-2 </h4>
+br
+<h4> Lec 8 - Events in javascript</h4>
